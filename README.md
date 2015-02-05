@@ -1,4 +1,4 @@
-# Single-Board-Computers
+# Single-Board Computers
 An organized list of single-board computers.
 
 [x86](#x86) || [x86_64](#x86_64) || [arm](#arm)
