@@ -7,7 +7,7 @@ An organized list of single-board computers.
 
 ### Intel Edison
 * **CPU:** 500mhz Dual-Core Atom
-* **RAM:**
+* **RAM:** 1gb DDR3
 
 ### [PC Engines ALIX](http://www.pcengines.ch/alix.htm)
 * **CPU:** 433 (LX700) or 500 MHz (LX800) AMD Geode LX CPU - cache = 64KB instruction + 64KB data + 128KB L2 - integrated crypto accelerator
@@ -17,8 +17,12 @@ An organized list of single-board computers.
 
 ## x86_64
 ### [Minnowboard MAX](http://www.elinux.org/MinnowBoard) 
-* **CPU:** 
-* **RAM:**
+* Dual-Core
+ * **CPU:** 2ghz Dual-Core Atom E3825 
+ * **RAM:** 2gb DDR3
+* Single-Core
+ * **CPU:** 1ghz Dual-Core Atom E3815
+ * **RAM:** 1gb DDR3
 
 ### [PC Engines APU](http://www.pcengines.ch/apu.htm) 
 * **CPU:** 
