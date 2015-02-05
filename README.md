@@ -58,3 +58,5 @@ An organized list of single-board computers.
 
 ### Cubieboards
 * Cubietruck
+
+### [Wandboard](http://wandboard.org/)
